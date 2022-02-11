@@ -1,0 +1,17 @@
+{
+  "pools": [
+    {
+      "key": "Snowflake Network (Official Pool)",
+      "pool": "pool.snowflake-net.com",
+      "port": "3333",
+      "ports": [
+        "3333",
+        "5555",
+        "7777"
+      ],
+      "type": 3,
+      "url": "https://pool.snowflake-net.com",
+      "ip": "176.57.189.177"
+    }
+  ]
+}
