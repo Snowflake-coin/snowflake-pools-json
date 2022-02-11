@@ -10,7 +10,7 @@
         "7777"
       ],
       "type": 3,
-      "url": "https://pool.snowflake-net.com",
+      "url": "https://pool.snowflake-net.com:8118",
       "ip": "176.57.189.177"
     }
   ]
