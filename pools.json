@@ -25,6 +25,19 @@
       "type": 3,
       "url": "https://frosting-pool.snowflake-net.com:8118",
       "ip": "173.212.251.144"
+    },
+    {
+      "key": "Snowflake Network (Official Asia Pool)",
+      "pool": "frosting-pool.snowflake-net.com",
+      "port": "3333",
+      "ports": [
+        "3333",
+        "5555",
+        "7777"
+      ],
+      "type": 3,
+      "url": "https://asia-pool.snowflake-net.com:8118",
+      "ip": "85.148.143.163"
     }
   ]
 }
